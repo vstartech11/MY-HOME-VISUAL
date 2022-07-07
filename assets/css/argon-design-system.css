@@ -15931,7 +15931,7 @@ a.text-darker:focus {
   }
 
   abbr[title]::after {
-    content: " ("attr(title) ")";
+    content: " (" attr(title) ")";
   }
 
   pre {
