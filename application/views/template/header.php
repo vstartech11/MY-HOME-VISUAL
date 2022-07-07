@@ -104,7 +104,7 @@ Coded by www.creative-tim.com
                             <i class="ni ni-collection d-lg-none"></i>
                             <span class="nav-link-inner--text">Examples</span>
                         </a>
-                        <div class="dropdown-menu">
+                        <div class="dropdown-menu bg-orange">
                             <a href="<?= base_url(); ?>examples/landing.html" class="dropdown-item">Landing</a>
                             <a href="<?= base_url(); ?>examples/profile.html" class="dropdown-item">Profile</a>
                             <a href="<?= base_url(); ?>examples/login.html" class="dropdown-item">Login</a>
