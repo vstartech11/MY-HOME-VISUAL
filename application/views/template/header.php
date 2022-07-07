@@ -18,7 +18,7 @@ Coded by www.creative-tim.com
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="apple-touch-icon" sizes="76x76" href="<?= base_url(); ?>assets/img/apple-icon.png">
-    <link rel="icon" type="image/png" href="<?= base_url(); ?>assets/img/favicon.png">
+    <link rel="icon" type="image/png" href="<?= base_url(); ?>assets/img/logo.png">
     <title>
         <?= $title; ?>
     </title>
@@ -40,7 +40,7 @@ Coded by www.creative-tim.com
     <nav id="navbar-main" class="navbar navbar-main navbar-expand-lg navbar-transparent navbar-light py-2">
         <div class="container">
             <a class="navbar-brand mr-lg-5" href="<?= base_url('Landing'); ?>">
-                <img src="<?= base_url(); ?>assets/img/brand/white.png">
+                <img src="<?= base_url(); ?>assets/img/logo.png">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar_global" aria-controls="navbar_global" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -65,7 +65,7 @@ Coded by www.creative-tim.com
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link" data-toggle="dropdown" href="#" role="button">
                             <i class="ni ni-ui-04 d-lg-none"></i>
-                            <span class="nav-link-inner--text">Components</span>
+                            <span class="nav-link-inner--text">CONTOH 1</span>
                         </a>
                         <div class="dropdown-menu dropdown-menu-xl">
                             <div class="dropdown-menu-inner">
@@ -74,7 +74,7 @@ Coded by www.creative-tim.com
                                         <i class="ni ni-spaceship"></i>
                                     </div>
                                     <div class="media-body ml-3">
-                                        <h6 class="heading text-primary mb-md-1">Getting started</h6>
+                                        <h6 class="heading text-primary mb-md-1">MULAI AWAL</h6>
                                         <p class="description d-none d-md-inline-block mb-0">Learn how to use compiling Scss, change brand colors and more.</p>
                                     </div>
                                 </a>
@@ -143,7 +143,7 @@ Coded by www.creative-tim.com
                         </a>
                     </li>
                     <li class="nav-item d-none d-lg-block">
-                        <a href="<?= base_url('auth/login'); ?>" target="_blank" class="btn btn-neutral btn-icon">
+                        <a href="<?= base_url('Auth/login'); ?>" target="_blank" class="btn btn-neutral btn-icon">
                             <span class="btn-inner--icon">
                                 <i class="fa fa-shopping-cart"></i>
                             </span>
