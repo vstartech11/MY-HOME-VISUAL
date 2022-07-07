@@ -13,4 +13,11 @@ class Auth extends CI_Controller
         $this->load->view('auth/login');
         $this->load->view('template/footer');
     }
+    public function pemesananAdmin()
+    {
+        $data['title'] = 'Pesanan Admin';
+        $this->load->view('template/header', $data);
+        $this->load->view('auth/pesananAdmin');
+        $this->load->view('template/footer');
+    }
 }
