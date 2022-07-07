@@ -17,8 +17,8 @@
                 <div class="col px-0">
                     <div class="row align-items-center justify-content-center">
                         <div class="col-lg-6 text-center">
-                            <h1 class="text-white display-1">People stories</h1>
-                            <h2 class="display-4 font-weight-normal text-white">The time is right now!</h2>
+                            <h1 class="text-white display-1">MY HOME VISUAL</h1>
+                            <h2 class="display-4 font-weight-normal text-white">Saatnya menentukan desain rumah idaman anda.</h2>
                             <div class="btn-wrapper mt-4">
                                 <a href="https://www.creative-tim.com/product/argon-design-system" class="btn btn-warning btn-icon mt-3 mb-sm-0">
                                     <span class="btn-inner--icon"><i class="ni ni-button-play"></i></span>
